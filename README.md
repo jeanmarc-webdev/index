@@ -1,13 +1,13 @@
-## Pong
+## Alien Invasion
 
 **Technologies:** 
-JavaScript, HTML5 Canvas
+Python, Pygame.
 
 **Code Repository:** 
-https://github.com/jeanmarc-webdev/pong
+https://github.com/jeanmarc-webdev/alien-invasion
 
 **Portfolio:** 
-https://github.com/jeanmarc-webdev/pong-portfolio
+https://github.com/jeanmarc-webdev/alien-invasion-portfolio
 
 
 ## Pong
